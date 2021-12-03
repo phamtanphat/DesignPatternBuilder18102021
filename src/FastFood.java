@@ -48,7 +48,7 @@ public class FastFood {
         this.combo = combo;
     }
 
-    public class Builder implements FastFoodBuilder{
+    public static class Builder implements FastFoodBuilder{
         private HamburgerType hamburgerType;
         private Snack snack;
         private Drink drink;
