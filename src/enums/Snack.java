@@ -1,5 +1,5 @@
 package enums;
 
-public enum Sack {
+public enum Snack {
     DONUT, POTATO
 }
